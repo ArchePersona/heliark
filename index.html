@@ -13,9 +13,9 @@
       body::before { content:""; position:fixed; inset:0; z-index:-3; background:radial-gradient(circle at 76% 17%,rgba(246,195,106,.24),transparent 17rem),radial-gradient(circle at 55% 42%,rgba(91,140,255,.18),transparent 19rem),radial-gradient(circle at 15% 76%,rgba(255,255,255,.13),transparent 13rem),linear-gradient(180deg,#03050a 0%,#07111c 48%,#030407 100%); }
       body::after { content:""; position:fixed; inset:0; z-index:-2; opacity:.58; background-image:radial-gradient(#fff .7px,transparent .7px),radial-gradient(#fff .55px,transparent .55px),radial-gradient(var(--gold) .75px,transparent .75px); background-size:71px 71px,113px 113px,173px 173px; background-position:0 0,19px 37px,47px 89px; }
       .nebula { position:fixed; inset:0; z-index:-1; pointer-events:none; opacity:.76; background:linear-gradient(132deg,transparent 0 30%,rgba(58,84,132,.18) 42%,rgba(246,195,106,.13) 53%,transparent 68%),linear-gradient(118deg,transparent 0 48%,rgba(255,255,255,.08) 53%,transparent 61%); filter:blur(.4px); }
-      .ship { position:fixed; left:7vw; bottom:16vh; width:98px; height:26px; z-index:-1; transform:rotate(-28deg); opacity:.9; }
-      .ship::before { content:""; position:absolute; right:0; top:5px; width:42px; height:16px; border-radius:70% 100% 100% 70%; background:linear-gradient(90deg,#8fa7c8,#fff 45%,#64748b); box-shadow:0 0 18px rgba(255,255,255,.4); }
-      .ship::after { content:""; position:absolute; right:34px; top:12px; width:115px; height:2px; background:linear-gradient(90deg,transparent,rgba(97,176,255,.08),rgba(97,176,255,.8)); box-shadow:0 0 9px rgba(97,176,255,.75); }
+      .ship { position:fixed; left:7vw; bottom:16vh; width:132px; height:42px; z-index:-1; transform:rotate(-28deg); opacity:.9; }
+      .ship::before { content:"✦"; position:absolute; right:0; top:-5px; width:30px; height:30px; color:#fff6d7; font-size:30px; line-height:30px; text-align:center; text-shadow:0 0 10px rgba(255,255,255,.9),0 0 22px rgba(246,195,106,.75),0 0 34px rgba(97,176,255,.45); }
+      .ship::after { content:""; position:absolute; right:22px; top:12px; width:125px; height:3px; border-radius:999px; background:linear-gradient(90deg,transparent,rgba(97,176,255,.12),rgba(97,176,255,.78),rgba(246,195,106,.55)); box-shadow:0 0 10px rgba(97,176,255,.75); }
       main { width:min(100%,1120px); margin:0 auto; }
       section { min-height:100svh; padding:32px 24px; display:flex; flex-direction:column; justify-content:center; }
       .hero { position:relative; text-align:center; justify-content:flex-start; padding-top:10px; }
