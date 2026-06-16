@@ -13,7 +13,7 @@
       body::before { content:""; position:fixed; inset:0; z-index:-3; background:radial-gradient(circle at 76% 17%,rgba(246,195,106,.24),transparent 17rem),radial-gradient(circle at 55% 42%,rgba(91,140,255,.18),transparent 19rem),radial-gradient(circle at 15% 76%,rgba(255,255,255,.13),transparent 13rem),linear-gradient(180deg,#03050a 0%,#07111c 48%,#030407 100%); }
       body::after { content:""; position:fixed; inset:0; z-index:-2; opacity:.58; background-image:radial-gradient(#fff .7px,transparent .7px),radial-gradient(#fff .55px,transparent .55px),radial-gradient(var(--gold) .75px,transparent .75px); background-size:71px 71px,113px 113px,173px 173px; background-position:0 0,19px 37px,47px 89px; }
       .nebula { position:fixed; inset:0; z-index:-1; pointer-events:none; opacity:.76; background:linear-gradient(132deg,transparent 0 30%,rgba(58,84,132,.18) 42%,rgba(246,195,106,.13) 53%,transparent 68%),linear-gradient(118deg,transparent 0 48%,rgba(255,255,255,.08) 53%,transparent 61%); filter:blur(.4px); }
-      .ship { position:fixed; left:7vw; bottom:16vh; width:132px; height:42px; z-index:-1; transform:rotate(-28deg); opacity:.9; }
+      .ship { position:fixed; left:1vw; bottom:7vh; width:132px; height:42px; z-index:-1; transform:rotate(-28deg); opacity:.9; }
       .ship::before { content:"✦"; position:absolute; right:0; top:-5px; width:30px; height:30px; color:#fff6d7; font-size:30px; line-height:30px; text-align:center; text-shadow:0 0 10px rgba(255,255,255,.9),0 0 22px rgba(246,195,106,.75),0 0 34px rgba(97,176,255,.45); }
       .ship::after { content:""; position:absolute; right:22px; top:12px; width:125px; height:3px; border-radius:999px; background:linear-gradient(90deg,transparent,rgba(97,176,255,.12),rgba(97,176,255,.78),rgba(246,195,106,.55)); box-shadow:0 0 10px rgba(97,176,255,.75); }
       main { width:min(100%,1120px); margin:0 auto; }
@@ -40,7 +40,7 @@
       .mark { width:132px; height:132px; margin:0 auto 28px; display:block; filter:drop-shadow(0 0 28px rgba(246,195,106,.32)); object-fit:contain; }
       footer { padding:36px 24px 56px; text-align:center; color:rgba(255,255,255,.42); font-size:.88rem; }
       @media (min-width:760px) { section { padding:64px; } .hero { text-align:center; padding-top:32px; } .hero-inner { margin:0 auto; } .brand-mark { width:164px; height:164px; } .brand span { margin-top:-20px; } .hero-copy { text-align:center; } .panel { max-width:760px; } }
-      @media (min-width:1180px) { main { width:min(100%,1280px); } section { min-height:100vh; padding:72px 88px; } .hero { padding-top:44px; } .hero-inner { width:min(58vw,860px); } h1 { font-size:clamp(5.2rem,7.2vw,8rem); max-width:8.7em; } .hero-copy { max-width:42rem; font-size:clamp(1.1rem,1.25vw,1.38rem); } .ship { left:7vw; bottom:18vh; transform:rotate(-28deg) scale(1.15); } }
+      @media (min-width:1180px) { main { width:min(100%,1280px); } section { min-height:100vh; padding:72px 88px; } .hero { padding-top:44px; } .hero-inner { width:min(58vw,860px); } h1 { font-size:clamp(5.2rem,7.2vw,8rem); max-width:8.7em; } .hero-copy { max-width:42rem; font-size:clamp(1.1rem,1.25vw,1.38rem); } .ship { left:2vw; bottom:10vh; transform:rotate(-28deg) scale(1.15); } }
       @media (min-width:1500px) { .hero-inner { width:min(54vw,880px); } h1 { font-size:clamp(5.2rem,6.25vw,8rem); } }
     </style>
   </head>
