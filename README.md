@@ -1,16 +1,14 @@
-# The HeliArk Institute
+# The Heliark Institute
 
 **Humanity keeps losing lessons that were expensive to learn.**
 
-**We think we can do better.**
-
-*A vessel for carrying human light forward.*
+**Our mission is to carry human wisdom forward.**
 
 ---
 
 ## Mission
 
-The HeliArk Institute exists to explore how the lessons of human life can be preserved, transmitted, and inherited by those who come after us.
+The Heliark Institute exists to explore how the lessons of human life can be preserved, transmitted, and inherited by those who come after us.
 
 This is not primarily a technology project.
 
@@ -26,9 +24,9 @@ Families lose stories. Organizations lose judgment. Communities lose hard-earned
 
 The future should not have to start from zero.
 
-## What HeliArk Means
+## What Heliark Means
 
-A HeliArk is a vessel for carrying human light forward.
+A Heliark is a vessel for carrying human wisdom forward.
 
 Human light means life: experience, mistakes, love, sacrifice, discovery, judgment, failure, wisdom, and meaning.
 
@@ -44,7 +42,7 @@ What failed. What hurt. What changed us. What we misunderstood. What we learned 
 
 ## Current Status
 
-This repository contains the first public landing page for the HeliArk Institute.
+This repository contains the first public landing page for the Heliark Institute.
 
 The first page is intentionally simple, mobile-first, and mission-led.
 
@@ -52,9 +50,7 @@ The first page is intentionally simple, mobile-first, and mission-led.
 
 > Humanity keeps losing lessons that were expensive to learn.
 >
-> We think we can do better.
->
-> A vessel for carrying human light forward.
+> Our mission is to carry human wisdom forward.
 
 ## Related Concept
 
