@@ -2,7 +2,7 @@
 
 **Humanity keeps losing lessons that were expensive to learn.**
 
-**Our mission is to carry human wisdom forward.**
+**Our mission is to carry humanity's lived wisdom forward.**
 
 ---
 
@@ -50,7 +50,7 @@ The first page is intentionally simple, mobile-first, and mission-led.
 
 > Humanity keeps losing lessons that were expensive to learn.
 >
-> Our mission is to carry human wisdom forward.
+> Our mission is to carry humanity's lived wisdom forward.
 
 ## Related Concept
 
